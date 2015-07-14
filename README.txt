@@ -1,0 +1,3 @@
+Catch the falling orbs of fire to earn experience. The orb cools down each time it bounces off the walls or floor of the glacier. The orb starts off worth +3 points, cools to +1 point, and after two bounces becomes an icy projectile that must be avoided. Use left and right arrows to move and up to jump.
+
+All trademarks and copyrights for Pokemon are owned by Nintendo and Game Freak Inc. The creator of this game does not own the images used.
