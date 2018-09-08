@@ -5,3 +5,5 @@ All trademarks and copyrights for Pokemon are owned by Nintendo and Game Freak I
 Version 1: Initial upload.
 
 Version 1.1: Added game modes for two other types. Everything is functional, but I only like the fire type game play. I’m going to leave the other two types in as an easter egg. The code needs more cleaning and documentation.
+
+https://codepen.io/zsilber/full/zGaOeB
